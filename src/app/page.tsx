@@ -21,7 +21,7 @@ export default function Home() {
         <div className="h-px w-24 bg-gradient-to-r from-transparent via-gold to-transparent" />
 
         <div>
-          <h1 className="font-serif text-5xl tracking-[0.3em] text-foreground sm:text-6xl md:text-7xl">
+          <h1 className="text-5xl tracking-[0.3em] text-foreground sm:text-6xl md:text-7xl">
             COMING SOON
           </h1>
           <p className="mt-4 max-w-md text-sm tracking-[0.15em] text-foreground/60 sm:text-base">
